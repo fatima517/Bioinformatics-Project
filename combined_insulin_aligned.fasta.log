@@ -1,0 +1,14 @@
+IQ-TREE multicore version 2.3.6 for Linux x86 64-bit built Aug  1 2024
+Developed by Bui Quang Minh, Nguyen Lam Tung, Olga Chernomor, Heiko Schmidt,
+Dominik Schrempf, Michael Woodhams, Ly Trong Nhan, Thomas Wong
+
+Host:    opuntia.rcdc.uh.edu (AVX, 62 GB RAM)
+Command: /iqtree-2.3.6-Linux-intel/bin/iqtree2 -s combined_insulin_aligned.fasta
+Seed:    835586 (Using SPRNG - Scalable Parallel Random Number Generator)
+Time:    Tue Nov 19 18:56:48 2024
+Kernel:  AVX - 1 threads (40 CPU cores detected)
+
+HINT: Use -nt option to specify number of threads because your CPU has 40 cores!
+HINT: -nt AUTO will automatically determine the best number of threads to use.
+
+Reading alignment file combined_insulin_aligned.fasta ... ERROR: Cannot read file combined_insulin_aligned.fasta
